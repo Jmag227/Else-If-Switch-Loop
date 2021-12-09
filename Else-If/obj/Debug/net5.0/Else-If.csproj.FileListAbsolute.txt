@@ -1,0 +1,16 @@
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\bin\Debug\net5.0\Else-If.exe
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\bin\Debug\net5.0\Else-If.deps.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\bin\Debug\net5.0\Else-If.runtimeconfig.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\bin\Debug\net5.0\Else-If.runtimeconfig.dev.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\bin\Debug\net5.0\Else-If.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\bin\Debug\net5.0\ref\Else-If.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\bin\Debug\net5.0\Else-If.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\obj\Debug\net5.0\Else-If.csproj.AssemblyReference.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\obj\Debug\net5.0\Else-If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\obj\Debug\net5.0\Else-If.AssemblyInfoInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\obj\Debug\net5.0\Else-If.AssemblyInfo.cs
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\obj\Debug\net5.0\Else-If.csproj.CoreCompileInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\obj\Debug\net5.0\Else-If.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\obj\Debug\net5.0\ref\Else-If.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\obj\Debug\net5.0\Else-If.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Else-If\Else-If\obj\Debug\net5.0\Else-If.genruntimeconfig.cache
